@@ -6,17 +6,17 @@ I'm a passionate Full Stack Developer skilled in the **MERN stack**, dedicated t
 
 ## 🚀 About Me
 
-- 🎓 **BCA Student** at Invertis University, Bareilly (Graduating 2026)
-- 💼 **Full Stack Developer Intern** @ OctaNet Services Pvt. Ltd.
-- 🏆 **Hackathon Winner** for developing a MERN stack app with an intuitive UI/UX
+- 🎓 **BCA Student** at Invertis University, Bareilly
+- 💼 **Full Stack MERN Developer** @Blankbite esoft Pvt. Ltd.
+- 🏆 **Hackathon Winner** for developing a Full stack app with an intuitive UI/UX
 - 👨‍💻 **Team Leader** of the project **XpertSwap** – a real-time skill exchange platform
-- 🌐 Building practical solutions with real-world impact using JavaScript, React, Node, and MongoDB
+- 🌐 Building practical solutions with real-world impact using JavaScript, TypeScript, React, Node, Express, MongoDB, Tailwind, Css, Next Js etc..
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages**: JavaScript, Java, SQL, HTML, CSS  
+- **Languages**: JavaScript, SQL, HTML, CSS  
 - **Frameworks & Libraries**: React.js, Node.js, Express.js, Redux Toolkit, Tailwind CSS, Mongoose  
 - **Developer Tools**: Git, GitHub, Postman, VS Code  
 - **Database**: MongoDB  
@@ -25,6 +25,8 @@ I'm a passionate Full Stack Developer skilled in the **MERN stack**, dedicated t
 ---
 
 ## 📌 Featured Projects
+
+### 🔄 [Brilson](https://brilson.in)
 
 ### 🔄 [XpertSwap](https://github.com/shivam-sd/XpertSwap)
 > A MERN-based skill exchange platform enabling students to teach and learn collaboratively.  
